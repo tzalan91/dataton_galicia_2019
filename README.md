@@ -1,12 +1,8 @@
-# dataton_galicia_2019
+# IA based Conversion Rate Optimization Applied to Online Banking Selling Forms
 Use web analytics to predict future conversions
-
-IA based Conversion Rate Optimization Applied to Online Banking Selling Forms
 Dataton Banco Galicia 2019
 Panuccio Abraham Alan
 
-
-Resumen
 En Marketing Digital una “conversión” es toda aquella acción llevada a cabo por un usuario en nuestro sitio web que genera beneficios y valor a nuestro negocio, es de alguna forma la acción que queremos que el usuario realice en nuestro sitio, en el caso de préstamos financieros, se trata de la adquisición del préstamo.
 
 La tesis propuesta se centrará en la predicción de futuras conversiones de préstamos personales de una entidad bancaria, basándose solo en el historial de navegación de los clientes dentro del portal privado y/o público.
