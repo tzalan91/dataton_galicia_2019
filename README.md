@@ -1,7 +1,11 @@
 # IA based Conversion Rate Optimization Applied to Online Banking Selling Forms
+
 Use web analytics to predict future conversions
+
 Dataton Banco Galicia 2019
+
 Panuccio Abraham Alan
+
 
 En Marketing Digital una “conversión” es toda aquella acción llevada a cabo por un usuario en nuestro sitio web que genera beneficios y valor a nuestro negocio, es de alguna forma la acción que queremos que el usuario realice en nuestro sitio, en el caso de préstamos financieros, se trata de la adquisición del préstamo.
 
